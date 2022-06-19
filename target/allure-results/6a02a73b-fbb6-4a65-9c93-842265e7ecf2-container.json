@@ -1,0 +1,1 @@
+{"uuid":"6a02a73b-fbb6-4a65-9c93-842265e7ecf2","name":"priceTest()","children":["2951377e-e60c-47ab-a03d-ecda2fd5c7e8"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655666960317,"stop":1655666961875}],"afters":[],"links":[],"start":1655666960262,"stop":1655666967043}
